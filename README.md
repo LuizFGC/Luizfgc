@@ -1,54 +1,60 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Luiz Filipe 👋
 
-###
+### Junior Software Developer | PHP & Laravel | Linux & Open Source Enthusiast
 
-<p align="left">My name is Luiz Filipe, and I'm a Software Engineer, from Brazil.</p>
+I'm a Brazilian software developer currently working with backend development while pursuing a degree in Information Systems.
 
-###
+I enjoy building reliable software, understanding how systems work under the hood, and exploring the intersection of software engineering, Linux, and infrastructure.
 
-<h2 align="left">About me</h2>
+My main experience is with PHP and Laravel, and I'm currently expanding my knowledge in Linux system administration, automation, containerization, and cloud-native technologies.
 
-###
+## 🚀 Technologies & Tools
 
-<p align="left">✨ Coding since: 2024<br>📚 I'm currently learning : Backend Development with Laravel and PHP</p>
+**Backend Development**
+- PHP
+- Laravel
+- JavaScript
 
-###
+**Databases & Messaging**
+- MySQL
+- PostgreSQL
+- SQL Server
+- Redis
+- MongoDB
 
-<div align="left">
-  <a href="www.linkedin.com/in/luizfilipe-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/luizf.goncalvess/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+**Infrastructure & Tools**
+- Linux
+- Docker
+- Git
+- Nginx
+- Bash
 
-###
+**Currently Learning**
+- Python
+- Ansible
+- Podman
+- Kubernetes
+- OpenShift
 
-<h2 align="left">Toolbox:</h2>
+## 🛠️ Featured Projects
 
-###
+- **[LinuxOps Lab](https://github.com/LuizFGC/linuxops-lab)** — Hands-on laboratory focused on Linux administration, networking, infrastructure automation, and cloud-native technologies.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-</div>
+- **[Revest Interno](https://github.com/LuizFGC/revestinterno)** — FullStack web system for managing store deliveries, allowing the creation, editing, completion, and detailed real-time tracking of deliveries .
 
-###
+## 📚 Currently Exploring
+
+- Linux system administration and troubleshooting
+- Infrastructure automation with Ansible
+- Containerization and orchestration
+- Open-source contribution
+- Backend architecture and software engineering principles
+
+## 🌎 Connect with me
+
+- [LinkedIn](https://linkedin.com/in/luiz-filipe-6684082b4)
+- [GitHub](https://github.com/LuizFGC)
+
+---
+
+*Always learning, building, and exploring how technology works.*
